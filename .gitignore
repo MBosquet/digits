@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+
+# macOS internal file (no need to track)
+.DS_Store
