@@ -11,7 +11,8 @@ Digits - Identifying text in an image using the MNIST dataset
 The goal of this exercise is to build a neural network that can take one of the images in the dataset and predict the digit in the image.
 
 ### Files used
-*
+* First_NN_PyTorch.ipynb
+* mnist.png
 
 
 
